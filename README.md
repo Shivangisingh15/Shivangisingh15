@@ -1,7 +1,7 @@
 ## Hey Everyone👋 I'm Shivangi Singh
 <div align="center"> <img src="github-header-image.png"> </div>
 <h3 align ="center"> A passionate Flutter Developer From India </h3>
-<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*Iw7ky0PB5xnz_5ss.gif">
+<img align="right" width="400"src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 <br/>
