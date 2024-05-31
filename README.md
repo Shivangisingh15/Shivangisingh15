@@ -1,13 +1,12 @@
-## Hi there 👋
-# Shivangi_Singh
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" height="400"src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+## Hey Everyone👋 I'm Shivangi Singh
+<div align="center"> <img src="github-header-image.png"> </div>
+<h3 align ="center"> A passionate Flutter Developer From India </h3>
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*Iw7ky0PB5xnz_5ss.gif">
 
 
 <br/>
-- 🔭 I’m currently working on flutter, dart,node js, mongo db,next js,javascrpit , react
+- 🔭 I’m currently working on Flutter, Dart , Firebase
 
-- 🌱 I’m currently learning  **flutter**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
